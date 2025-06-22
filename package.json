@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "deepcopy": "^0.6.0",
-    "mktemp": "^1.0.0"
+    "mktemp": "^2.0.0"
   }
 }
