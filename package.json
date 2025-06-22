@@ -31,8 +31,7 @@
     "lint": "true",
     "test": "true"
   },
-  "dependencies": {
-  },
   "devDependencies": {
+    "rollup": "1.0.0"
   }
 }
