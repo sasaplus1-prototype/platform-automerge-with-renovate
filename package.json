@@ -28,7 +28,7 @@
   },
   "scripts": {
     "build": "true",
-    "lint": "true",
+    "lint": "false",
     "test": "true"
   },
   "dependencies": {
