@@ -33,5 +33,8 @@
   },
   "dependencies": {
     "ltsv": "2.0.0"
+  },
+  "devDependencies": {
+    "mktemp": "0.4.0"
   }
 }
