@@ -31,7 +31,7 @@
     "lint": "true",
     "test": "true"
   },
-  "devDependencies": {
-    "rollup": "1.32.1"
+  "dependencies": {
+    "ltsv": "0.1.0"
   }
 }
