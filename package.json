@@ -32,7 +32,8 @@
     "test": "true"
   },
   "dependencies": {
-    "ltsv": "2.0.0"
+    "ltsv": "2.0.0",
+    "underscore": "1.0.3"
   },
   "devDependencies": {
     "mktemp": "0.4.0"
