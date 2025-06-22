@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "devEngines": {
+    "os": [
+      {
+        "name": "darwin"
+      },
+      {
+        "name": "linux"
+      }
+    ],
+    "cpu": [
+      {
+        "name": "x64"
+      },
+      {
+        "name": "arm64"
+      }
+    ],
+    "runtime": {
+      "name": "node",
+      "version": "20 || 22 || 24"
+    },
+    "packageManager": {
+      "name": "npm",
+      "version": "10 || 11"
+    }
+  },
+  "scripts": {
+    "build": "true",
+    "lint": "true",
+    "test": "node -e 'process.exitCode = Math.random() > 0.5 ? 0 : 1"
+  }
+}
