@@ -32,6 +32,6 @@
     "test": "node -e 'process.exitCode = Math.random() < 0.8 ? 0 : 1'"
   },
   "dependencies": {
-    "mktemp": "^0.4.0"
+    "mktemp": "^1.0.0"
   }
 }
