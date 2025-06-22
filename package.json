@@ -32,7 +32,7 @@
     "test": "true"
   },
   "dependencies": {
-    "deepcopy": "^0.2.0",
+    "deepcopy": "^0.6.0",
     "mktemp": "^1.0.0"
   }
 }
