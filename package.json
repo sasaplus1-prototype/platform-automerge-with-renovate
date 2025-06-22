@@ -37,6 +37,6 @@
     "mktemp": "0.4.0"
   },
   "devDependencies": {
-    "mkdirp": "0.1.0"
+    "mkdirp": "0.5.6"
   }
 }
