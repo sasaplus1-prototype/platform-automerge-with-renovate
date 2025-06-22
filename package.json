@@ -32,12 +32,7 @@
     "test": "true"
   },
   "dependencies": {
-    "deepcopy": "1.0.1",
-    "lodash": "2.4.2",
-    "mktemp": "0.4.0"
   },
   "devDependencies": {
-    "mkdirp": "0.5.6",
-    "rimraf": "1.0.0"
   }
 }
