@@ -33,7 +33,10 @@
   },
   "dependencies": {
     "deepcopy": "1.0.1",
-    "mktemp": "0.4.0",
-    "lodash": "2.4.2"
+    "lodash": "2.4.2",
+    "mktemp": "0.4.0"
+  },
+  "devDependencies": {
+    "mkdirp": "0.1.0"
   }
 }
