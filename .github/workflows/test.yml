@@ -27,6 +27,7 @@ jobs:
           cache: npm
           node-version: lts/*
       - run: npm ci
+      - run: sleep 10
       - run: npm run ${{ matrix.command }}
   test:
     name: node.js ${{ matrix.node }}
