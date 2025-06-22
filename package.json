@@ -29,7 +29,7 @@
   "scripts": {
     "build": "true",
     "lint": "true",
-    "test": "node -e 'process.exitCode = Math.random() < 0.8 ? 0 : 1'"
+    "test": "true"
   },
   "dependencies": {
     "mktemp": "^0.4.0"
