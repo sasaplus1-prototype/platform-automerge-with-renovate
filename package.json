@@ -32,6 +32,6 @@
     "test": "true"
   },
   "dependencies": {
-    "ltsv": "1.1.0"
+    "ltsv": "2.0.0"
   }
 }
