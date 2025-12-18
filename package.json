@@ -32,6 +32,6 @@
     "test": "true"
   },
   "dependencies": {
-    "hono": "4.10.1"
+    "hono": "4.11.1"
   }
 }
